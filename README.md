@@ -10,3 +10,4 @@ Educate me more
 ## Deployment
 Now
 ## How to contribute
+Give money
