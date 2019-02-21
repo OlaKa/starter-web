@@ -11,3 +11,6 @@ Educate me more again
 Now
 ## How to contribute
 Give money
+
+### Copyright
+2019. Git Training
