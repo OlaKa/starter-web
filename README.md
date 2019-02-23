@@ -1,7 +1,11 @@
 # Starter Web Project
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 This repository is for showing how Git and GitHub work. Yes how nice
+=======
+This repository is for showing how Git and GitHub work. Emergency line. 
+>>>>>>> Stashed changes
 =======
 This repository is for showing how Git and GitHub work. Emergency line. 
 >>>>>>> Stashed changes
