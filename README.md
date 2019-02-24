@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work. Emergency line. 
+This repository is for showing how Git and GitHub works together.  
 
 ## Introduction
 
